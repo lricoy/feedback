@@ -10,7 +10,7 @@
 
 ## Como contribuir?
 
-Leia [CONTRIBUTING](CONTRIBUTING.md) para obter detalhes sobre o nosso código de conduta e o processo para enviar pedidos de tração para nós.
+Leia [CONTRIBUTING](CONTRIBUTING.md) para obter detalhes sobre o nosso código de conduta e o processo para enviar **pull request** para nós.
 
 
 ## Autores
