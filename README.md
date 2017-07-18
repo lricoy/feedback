@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/brunopulis/feedback.svg?branch=master)](https://travis-ci.org/brunopulis/feedback)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 # E o Feedback?
 > Participou de um processo seletivo ou fez um teste e não teve feedback? Esse é seu lugar. 
@@ -19,9 +20,8 @@ Leia [CONTRIBUTING.md] (CONTRIBUTING.md) para obter detalhes sobre o nosso códi
 | [Bruno Pulis](https://github.com/brunopulis/) |  [Marcus Silva](https://github.com/mvfsillva/) |
 
 
-
-Veja também a lista de [contribuidores] (https://github.com/your/project/contributors) que participaram deste projeto.
+Veja também a lista de [contribuidores](https://github.com/brunopulis/feedback/graphs/contributors) que participaram deste projeto.
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE.md) para obter detalhes
