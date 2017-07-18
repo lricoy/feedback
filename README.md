@@ -5,8 +5,15 @@
 > Participou de um processo seletivo ou fez um teste e não teve feedback? Esse é seu lugar. 
 
 
-## Instalação
-...
+## Dependencias
+- Node.js `>=` v6;
+
+## Iniciando o projeto
+
+- Clone este repositorio: `git clone git@github.com:brunopulis/feedback.git`;
+- Instale as dependencias: `npm install` (ou `npm i`);
+- Execute `npm dev` (ou `npm start`) para ambiente de desenvolvimento em `http://localhost:3000`
+- Execute `npm build` (ou `npm run build`) para produção 
 
 ## Como contribuir?
 
