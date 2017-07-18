@@ -1,0 +1,20 @@
+{
+  "name": "feedback",
+  "version": "1.0.0",
+  "description": "Participou de um processo seletivo ou fez um teste e não teve feedback? Esse é seu lugar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopulis/feedback.git"
+  },
+  "keywords": [],
+  "author": "Bruno Pulis and Marcus Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunopulis/feedback/issues"
+  },
+  "homepage": "https://github.com/brunopulis/feedback#readme"
+}
