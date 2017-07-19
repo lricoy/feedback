@@ -26,7 +26,8 @@ Leia [CONTRIBUTING](CONTRIBUTING.md) para obter detalhes sobre o nosso código d
 [Bruno Pulis](https://github.com/brunopulis/)|
 
 ## Autores
-![Marcus Silva](https://avatars2.githubusercontent.com/u/4579340?v=3&s=70) 
+![Marcus Silva](https://avatars2.githubusercontent.com/u/4579340?v=3&s=70) |
+--- |
 [Marcus Silva](https://github.com/mvfsillva/)
 
 Veja também a lista de [contribuidores](https://github.com/brunopulis/feedback/graphs/contributors) que participaram deste projeto.
