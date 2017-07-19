@@ -12,8 +12,8 @@
 
 - Clone este repositorio: `git clone git@github.com:brunopulis/feedback.git`;
 - Instale as dependencias: `npm install` (ou `npm i`);
-- Execute `npm dev` (ou `npm start`) para ambiente de desenvolvimento em `http://localhost:3000`
-- Execute `npm build` (ou `npm run build`) para produção 
+- Execute `npm run dev` (ou `npm run start`) para ambiente de desenvolvimento em `http://localhost:3000`
+- Execute `npm run build` (ou `npm run build`) para produção 
 
 ## Como contribuir?
 
