@@ -1,12 +1,10 @@
-'use strict'
-
 const webpack = require('webpack')
 const common = require('./common')
 
 const HtmlPlugin = require('html-webpack-plugin')
 const DashboardPlugin = require('webpack-dashboard/plugin')
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3000
 
 module.exports = {
   devtool: 'source-map',
