@@ -20,12 +20,14 @@
 Leia [CONTRIBUTING](CONTRIBUTING.md) para obter detalhes sobre o nosso código de conduta e o processo para enviar **pull request** para nós.
 
 
+## Criador
+[![Bruno Pulis](https://avatars2.githubusercontent.com/u/1204692?v=3&s=70)](https://github.com/brunopulis) |
+--- |
+[Bruno Pulis](https://github.com/brunopulis/)|
+
 ## Autores
-
-| ![Bruno Pulis](https://avatars2.githubusercontent.com/u/1204692?v=3&s=150)   |      ![Bruno Pulis](https://avatars2.githubusercontent.com/u/4579340?v=3&s=150)      |
-|:-------------:|:-------------:|
-| [Bruno Pulis](https://github.com/brunopulis/) |  [Marcus Silva](https://github.com/mvfsillva/) |
-
+![Marcus Silva](https://avatars2.githubusercontent.com/u/4579340?v=3&s=70) 
+[Marcus Silva](https://github.com/mvfsillva/)
 
 Veja também a lista de [contribuidores](https://github.com/brunopulis/feedback/graphs/contributors) que participaram deste projeto.
 
