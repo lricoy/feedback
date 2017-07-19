@@ -4,7 +4,7 @@
   "description": "Participou de um processo seletivo ou fez um teste e não teve feedback? Esse é seu lugar.",
   "main": "index.js",
   "scripts": {
-    "start": "npm dev",
+    "start": "npm run dev",
     "dev": "webpack-dashboard -- node server.js",
     "test": "jest --coverage",
     "test:watch": "npm test -- --watch",
@@ -12,7 +12,7 @@
     "lint:watch": "gulp",
     "lint:fix": "standard --fix",
     "build": "cross-env NODE_ENV=production BABEL_ENV=production webpack --progress --config webpack/prod.config -p",
-    "build:analyzer": "cross-env ANALYZER=true npm build"
+    "build:analyzer": "cross-env ANALYZER=true npm run build"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
